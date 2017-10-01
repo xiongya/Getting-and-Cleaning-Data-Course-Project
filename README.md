@@ -16,6 +16,6 @@ Data is collected from the accelerometers from the Samsung Galaxy S smartphone. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Results:
-1. R script can be found in run_analysis.R.
+1. R script can be found in "run_analysis.R".
 2. Description of the variables is in CodeBook.md.
 3. tidy data set is in tidy.txt.
