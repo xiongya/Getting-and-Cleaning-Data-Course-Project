@@ -60,6 +60,7 @@ tBodyGyroJerkMean
 
 ## Activity Labels
 ### Links the class labels with their activity name.
+
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
