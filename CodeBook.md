@@ -70,15 +70,15 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 ## Features
 ### List of all features.
-1 tBodyAcc-mean()-X
-2 tBodyAcc-mean()-Y
-3 tBodyAcc-mean()-Z
-4 tBodyAcc-std()-X
-5 tBodyAcc-std()-Y
-6 tBodyAcc-std()-Z
-7 tBodyAcc-mad()-X
-8 tBodyAcc-mad()-Y
-9 tBodyAcc-mad()-Z
+1. tBodyAcc-mean()-X
+2. tBodyAcc-mean()-Y
+3. tBodyAcc-mean()-Z
+4. tBodyAcc-std()-X
+5. tBodyAcc-std()-Y
+6. tBodyAcc-std()-Z
+7. tBodyAcc-mad()-X
+8. tBodyAcc-mad()-Y
+9. tBodyAcc-mad()-Z
 10 tBodyAcc-max()-X
 11 tBodyAcc-max()-Y
 12 tBodyAcc-max()-Z
